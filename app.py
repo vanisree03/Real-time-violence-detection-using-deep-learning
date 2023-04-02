@@ -1,5 +1,6 @@
 import requests
 import streamlit as st
+import streamlit_lottie
 from streamlit_lottie import st_lottie
 
 st.set_page_config(page_title="Mini project", page_icon=":video_camera:",layout="wide")
